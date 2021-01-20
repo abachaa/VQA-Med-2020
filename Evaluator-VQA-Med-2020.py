@@ -93,7 +93,6 @@ class Ic2020VqaMedVqaEvaluator:
     Load and return a predictions object (dictionary) that contains the submitted data that will be used in the _evaluate method
     Parameter 'submission_file_path': Path of the submitted runfile
     Validation of the runfile format will also be handled here
-    THE VALIDATION PART CAN BE IMPLEMENTED BY IVAN IF YOU WISH (ivan.eggel@hevs.ch)
     """
 
     def load_predictions(self, submission_file_path):
