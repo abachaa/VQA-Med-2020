@@ -20,8 +20,8 @@ Data:
 
 VQA Data: 
 - Training set: 4,000 radiology images with 4,000 associated Question-Answer (QA) pairs.
-- Validation set: 500 radiology images with 500 QA pairs.
-- Test set: 500 radiology images with 500 associated questions. 
+- Validation set: 500 radiology images with 500 QA pairs (https://github.com/abachaa/VQA-Med-2020/blob/main/VQA-ValidationSet-VQAMed2020-Task1.zip).
+- Test set: 500 radiology images with 500 associated questions (https://github.com/abachaa/VQA-Med-2020/blob/main/VQA-TestSet-ReferenceAnswers-VQAMed2020-Task1.zip). 
 
 
 VQG Data:
