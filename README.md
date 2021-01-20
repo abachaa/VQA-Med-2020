@@ -31,6 +31,14 @@ VQG Data:
 - Test set: 80 radiology images. 
 
 
+Evaluation 
+----------
+
+Accuracy: We used an adapted version of the accuracy metric from the general domain VQA task that considers exact matching of a participant provided answer and the ground truth answer.
+BLEU: We used the BLEU metric to capture the similarity between a system-generated answer and the ground truth answer. 
+
+Code: https://github.com/abachaa/VQA-Med-2020/blob/main/Evaluator-VQA-Med-2020.py 
+
 Reference
 ----------
 
