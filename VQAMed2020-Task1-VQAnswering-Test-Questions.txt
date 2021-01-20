@@ -1,0 +1,500 @@
+synpic26840|are there abnormalities in this mri?
+synpic39181|is this a normal ct scan?
+synpic36496|is this image normal?
+synpic25800|is there evidence of any abnormalities?
+synpic25633|is there evidence of any abnormalities?
+synpic15156|is this a normal image?
+synpic35686|is there something wrong in the image?
+synpic18122|does this image look normal?
+synpic26848|is the mri normal?
+synpic54536|is this a normal nuclear medicine image?
+synpic28330|does this image look normal?
+synpic100305|is this ultrasound normal?
+synpic36493|is this a normal x-ray?
+synpic26847|is this image normal?
+synpic25661|is this image normal?
+synpic56155|is there evidence of any abnormalities?
+synpic56545|is there something wrong in the image?
+synpic13029|is there evidence of any abnormalities?
+synpic28132|is there something wrong in the image?
+synpic15812|is there an abnormality in the ct scan?
+synpic39348|is the ct scan normal?
+synpic17960|is there something wrong in the image?
+synpic50769|is there something wrong in the image?
+synpic17211|does this image look normal?
+synpic54695|is this a normal ct scan?
+synpic42810|is there evidence of any abnormalities?
+synpic56461|are there abnormalities in this mri?
+synpic19752|is this a normal mri?
+synpic18789|does this image look normal?
+synpic16791|is the x-ray normal?
+synpic39780|what is abnormal in the ultrasound?
+synpic30247|what abnormality is seen in the image?
+synpic31271|what abnormality is seen in the image?
+synpic22858|what is abnormal in the ct scan?
+synpic25302|what is the primary abnormality in this image?
+synpic58683|what abnormality is seen in the image?
+synpic20749|what is abnormal in the angiogram?
+synpic27048|what abnormality is seen in the image?
+synpic48354|what abnormality is seen in the image?
+synpic32636|what abnormality is seen in the image?
+synpic23541|what is most alarming about this nuclear medicine image?
+synpic53540|what is most alarming about this ct scan?
+synpic23906|what abnormality is seen in the image?
+synpic24236|is this ultrasound abnormal?
+synpic26909|what abnormality is seen in the image?
+synpic41464|what is the primary abnormality in this image?
+synpic51149|what is the primary abnormality in this image?
+synpic55941|what is abnormal in the x-ray?
+synpic53896|what is the primary abnormality in this image?
+synpic31910|what is abnormal in the mri?
+synpic35746|what is the primary abnormality in this image?
+synpic31124|what is abnormal in the ct scan?
+synpic46602|what abnormality is seen in the image?
+synpic25884|what is the primary abnormality in this image?
+synpic41599|what is the primary abnormality in this image?
+synpic55474|what abnormality is seen in the image?
+synpic42801|what is abnormal in the mri?
+synpic18070|what is the primary abnormality in this image?
+synpic17789|what abnormality is seen in the image?
+synpic23932|what is most alarming about this mri?
+synpic38929|what abnormality is seen in the image?
+synpic16022|what is abnormal in the mammograph?
+synpic41513|what is most alarming about this mri?
+synpic16152|what is the primary abnormality in this image?
+synpic15868|what is abnormal in the mri?
+synpic36114|what is most alarming about this x-ray?
+synpic29704|what abnormality is seen in the image?
+synpic15118|what abnormality is seen in this x-ray?
+synpic43951|what is most alarming about this the image?
+synpic41242|what is the primary abnormality in this image?
+synpic49053|what is the primary abnormality in this image?
+synpic39852|what is the primary abnormality in this image?
+synpic32196|what abnormality is seen in the image?
+synpic33245|what is abnormal in the mri?
+synpic19022|what abnormality is seen in the image?
+synpic53719|what is abnormal in the mri?
+synpic45940|what is shown in the x-ray?
+synpic54518|what abnormality is seen in the image?
+synpic23108|what is abnormal in the ct scan?
+synpic24969|what is the primary abnormality in this image?
+synpic51488|what is most alarming about this ct scan?
+synpic42805|what abnormality is seen in the image?
+synpic28407|what is most alarming about this x-ray?
+synpic56198|what is the primary abnormality in this image?
+synpic39675|what is abnormal in the ct scan?
+synpic30324|what is most alarming about this ct scan?
+synpic35175|what is abnormal in the ultrasound?
+synpic32168|what is the primary abnormality in this image?
+synpic22066|what is abnormal in the ct scan?
+synpic28474|what is most alarming about this ct scan?
+synpic56091|what is the primary abnormality in this image?
+synpic53329|what is most alarming about this mri?
+synpic58810|what abnormality is seen in the image?
+synpic19155|what is most alarming about this mri?
+synpic55940|what abnormality is seen in the image?
+synpic29056|what is the primary abnormality in this image?
+synpic29771|what is the primary abnormality in this image?
+synpic52353|what is most alarming about this x-ray?
+synpic30323|what is abnormal in the ct scan?
+synpic20315|what is the primary abnormality in this image?
+synpic23910|what abnormality is seen in the image?
+synpic20121|what abnormality is seen in the image?
+synpic41212|what is the primary abnormality in this image?
+synpic28614|what is most alarming about this ct scan?
+synpic10750|what is abnormal in the ct scan?
+synpic38530|what is most alarming about this x-ray?
+synpic10749|what is most alarming about this ct scan?
+synpic51234|what abnormality is seen in the image?
+synpic32613|what is most alarming about this ultrasound?
+synpic55351|what is most alarming about this image?
+synpic25239|what abnormality is seen in the image?
+synpic28652|what abnormality is seen in this x-ray?
+synpic31482|what abnormality is seen in the image?
+synpic28689|what is abnormal in the ct scan?
+synpic19629|what is the primary abnormality in this image?
+synpic32605|what abnormality is seen in the image?
+synpic31192|what is abnormal in the x-ray?
+synpic42799|what is most alarming about this mri?
+synpic42199|what abnormality is seen in the image?
+synpic56902|what is the primary abnormality in this image?
+synpic40740|what is the primary abnormality in this image?
+synpic57445|what abnormality is seen in the image?
+synpic31484|what is most alarming about this ct scan?
+synpic17524|what abnormality is seen in the image?
+synpic16072|what is the primary abnormality in this image?
+synpic55188|what is the primary abnormality in this image?
+synpic24413|what is most alarming about this ct scan?
+synpic15789|what is abnormal in the ct scan?
+synpic49459|what is most alarming about this ct scan?
+synpic43965|what abnormality is seen in the image?
+synpic18732|what is the primary abnormality in this image?
+synpic20553|what is abnormal in the ct scan?
+synpic23761|what is most alarming about this ultrasound?
+synpic16426|what abnormality is seen in the image?
+synpic25167|what is abnormal in the mri?
+synpic21834|what is the primary abnormality in this image?
+synpic30314|what is most alarming about this ct scan?
+synpic19963|what is most alarming about this ct scan?
+synpic43957|what abnormality is seen in the image?
+synpic28172|what abnormality is seen in the image?
+synpic42233|what is seen in this ct scan?
+synpic25420|what is the primary abnormality in this image?
+synpic27095|what is most alarming about this mri?
+synpic16886|what is the primary abnormality in this image?
+synpic48308|what is the primary abnormality in this image?
+synpic19021|what is most alarming about this ultrasound?
+synpic29443|what is abnormal in the ct scan?
+synpic35266|what abnormality is seen in the image?
+synpic55186|what abnormality is seen in the image?
+synpic28791|what is the primary abnormality in this image?
+synpic52290|what is abnormal in the ct scan?
+synpic50958|what abnormality is seen in the image?
+synpic46500|what is most alarming about this mri?
+synpic31794|what abnormality is seen in the image?
+synpic29647|what abnormality is seen in the image?
+synpic47190|what abnormality is seen in the image?
+synpic27333|what abnormality is seen in the image?
+synpic49052|what abnormality is seen in the image?
+synpic35948|what is abnormal in the mri?
+synpic32680|what is most alarming about this x-ray?
+synpic59807|what is the primary abnormality in this image?
+synpic41137|what is abnormal in the ct scan?
+synpic28613|what is the primary abnormality in this image?
+synpic40134|what abnormality is seen in the image?
+synpic45645|what is most alarming about this ct scan?
+synpic54388|what is the primary abnormality in this image?
+synpic19260|what is most alarming about this ct scan?
+synpic35641|what abnormality is seen in the image?
+synpic43755|what abnormality is seen in the image?
+synpic22905|what is most alarming about this x-ray?
+synpic32336|what is abnormal in the mri?
+synpic41069|what abnormality is seen in the image?
+synpic24598|what abnormality is seen in the image?
+synpic49450|what is most alarming about this mri?
+synpic39083|what is the primary abnormality in this image?
+synpic31442|what is abnormal in the ct scan?
+synpic22898|what is abnormal in the x-ray?
+synpic43693|what is abnormal in the ct scan?
+synpic39969|what is most alarming about this mri?
+synpic18434|what is most alarming about this x-ray?
+synpic19499|what abnormality is seen in the image?
+synpic27208|what is most alarming about this ct scan?
+synpic28450|what is most alarming about this ultrasound?
+synpic38505|what abnormality is seen in the image?
+synpic33442|what is most alarming about this ct scan?
+synpic52402|what abnormality is seen in the image?
+synpic52602|what is most alarming about this x-ray?
+synpic59270|what is abnormal in the ct scan?
+synpic36878|what is abnormal in the mri?
+synpic22988|what abnormality is seen in the image?
+synpic32873|what is the primary abnormality in this image?
+synpic51146|what abnormality is seen in the image?
+synpic25206|what is most alarming about this ct scan?
+synpic39962|what is the primary abnormality in this image?
+synpic31882|what is the primary abnormality in this image?
+synpic31789|what is most alarming about this x-ray?
+synpic34035|what abnormality is seen in the image?
+synpic38375|what is most alarming about this mri?
+synpic51197|what is abnormal in the mri?
+synpic46953|what abnormality is seen in the image?
+synpic39619|what abnormality is seen in the image?
+synpic43947|what is the primary abnormality in this image?
+synpic26791|what abnormality is seen in the image?
+synpic49365|what is abnormal in the mri?
+synpic28471|what is most alarming about this x-ray?
+synpic58578|what is the primary abnormality in this image?
+synpic33644|what abnormality is seen in the image?
+synpic48358|what is the primary abnormality in this image?
+synpic48946|what is abnormal in the ct scan?
+synpic34010|what abnormality is seen in the image?
+synpic27937|what is most alarming about this x-ray?
+synpic15811|what is most alarming about this ct scan?
+synpic34501|what is most alarming about this x-ray?
+synpic46958|what abnormality is seen in the image?
+synpic18532|what is abnormal in the ct scan?
+synpic28510|what abnormality is seen in the image?
+synpic28321|what abnormality is seen in the image?
+synpic46730|what is most alarming about this ct scan?
+synpic38734|what is most alarming about this ct scan?
+synpic32617|what is abnormal in the x-ray?
+synpic27896|what abnormality is seen in the image?
+synpic32353|what is abnormal in the ct scan?
+synpic31334|what is abnormal in the ct scan?
+synpic53337|what is the primary abnormality in this image?
+synpic38410|what is most alarming about this ultrasound?
+synpic25100|what abnormality is seen in the image?
+synpic20162|what abnormality is seen in the image?
+synpic30678|what abnormality is seen in the image?
+synpic22867|what abnormality is seen in the image?
+synpic48947|what is the primary abnormality in this image?
+synpic42272|what is most alarming about this ct scan?
+synpic47812|what is abnormal in the mri?
+synpic45650|what is abnormal in the mri?
+synpic18709|what is the primary abnormality in this image?
+synpic24190|what is the primary abnormality in this image?
+synpic42798|what abnormality is seen in the image?
+synpic38536|what abnormality is seen in the image?
+synpic16151|what is abnormal in the mri?
+synpic27179|what is most alarming about this ct scan?
+synpic60958|what is the primary abnormality in this image?
+synpic27825|what is abnormal in the ultrasound?
+synpic30212|what is most alarming about this ct scan?
+synpic42246|what is the primary abnormality in this image?
+synpic15814|what is most alarming about this x-ray?
+synpic36243|what abnormality is seen in the image?
+synpic15865|what is the primary abnormality in this image?
+synpic22649|what is the primary abnormality in this image?
+synpic31179|what abnormality is seen in the image?
+synpic43966|what is abnormal in the x-ray?
+synpic46952|what abnormality is seen in the image?
+synpic27662|what is the primary abnormality in this image?
+synpic35370|what is abnormal in the mri?
+synpic27332|what abnormality is seen in the image?
+synpic27631|what is abnormal in the mri?
+synpic53327|what is the primary abnormality in this image?
+synpic23819|what is most alarming about this ct scan?
+synpic43645|what abnormality is seen in the image?
+synpic16496|what abnormality is seen in the image?
+synpic12857|what is abnormal in the ct scan?
+synpic24748|what is most alarming about this ct scan?
+synpic22343|what is abnormal in the x-ray?
+synpic43011|what is abnormal in the ct scan?
+synpic17160|what is most alarming about this x-ray?
+synpic60343|what abnormality is seen in the image?
+synpic57866|what is the primary abnormality in this image?
+synpic42227|what is seen in the image?
+synpic56744|what is the primary abnormality in this image?
+synpic54052|what abnormality is seen in the image?
+synpic22147|what is most alarming about this ct scan?
+synpic53129|what is abnormal in the x-ray?
+synpic23950|what is most alarming about this x-ray?
+synpic41669|what is abnormal in the ct scan?
+synpic59336|what is abnormal in the ct scan?
+synpic31912|what is most alarming about this mri?
+synpic15438|what is most alarming about this ct scan?
+synpic34760|what is the primary abnormality in this image?
+synpic19949|what is the primary abnormality in this image?
+synpic16397|what is most alarming about this x-ray?
+synpic58804|what is abnormal in the mri?
+synpic21758|what is most alarming about this mri?
+synpic16566|what is abnormal in the ct scan?
+synpic52300|what is abnormal in the ct scan?
+synpic25876|what is abnormal in the ct scan?
+synpic29666|what abnormality is seen in the image?
+synpic30900|what is most alarming about this ultrasound?
+synpic32095|what is abnormal in the x-ray?
+synpic58067|what abnormality is seen in the image?
+synpic28509|what is most alarming about this x-ray?
+synpic53138|what is abnormal in the ct scan?
+synpic20683|what is the primary abnormality in this image?
+synpic12024|what is the primary abnormality in this image?
+synpic58079|what is the primary abnormality in this image?
+synpic30464|what is abnormal in the mri?
+synpic29027|what is most alarming about this gastrointestinal image?
+synpic47000|what is most alarming about this x-ray?
+synpic17942|what is most alarming about this ct scan?
+synpic24232|what is the primary abnormality in this image?
+synpic16071|what is the primary abnormality in this image?
+synpic12718|what is the primary abnormality in this image?
+synpic52306|what is most alarming about this ct scan?
+synpic41947|what is abnormal in the ultrasound?
+synpic50038|what abnormality is seen in the image?
+synpic30931|what is most alarming about this ct scan?
+synpic28478|what is the primary abnormality in this image?
+synpic26447|what is the primary abnormality in this image?
+synpic21565|what is abnormal in the mri?
+synpic16213|what is abnormal in the ct scan?
+synpic19019|what is abnormal in the ultrasound?
+synpic22283|what abnormality is seen in the image?
+synpic41716|what abnormality is seen in the image?
+synpic33181|what is the primary abnormality in this image?
+synpic39937|what is abnormal in the gastrointestinal image?
+synpic30822|what is most alarming about this ct scan?
+synpic19553|what is abnormal in the mammograph?
+synpic20224|what is abnormal in the x-ray?
+synpic37346|what is abnormal in the ct scan?
+synpic18860|what is abnormal in the x-ray?
+synpic33733|what is most alarming about this ultrasound?
+synpic34048|what abnormality is seen in the image?
+synpic21457|what is abnormal in the ct scan?
+synpic33267|what abnormality is seen in the image?
+synpic27691|what abnormality is seen in the image?
+synpic38507|what is the primary abnormality in this image?
+synpic16755|what abnormality is seen in the image?
+synpic27495|what is abnormal in the ultrasound?
+synpic16145|what is most alarming about this nuclear medicine image?
+synpic35253|what abnormality is seen in the image?
+synpic43555|what abnormality is seen in the image?
+synpic54094|what is the primary abnormality in this image?
+synpic43005|what is the primary abnormality in this image?
+synpic45011|what is most alarming about this ultrasound?
+synpic51147|what is the primary abnormality in this image?
+synpic43948|what is most alarming about this mri?
+synpic20942|what is most alarming about this x-ray?
+synpic32760|what is most alarming about this x-ray?
+synpic37739|what is the primary abnormality in this image?
+synpic32267|what is the primary abnormality in this image?
+synpic45647|what is the primary abnormality in this image?
+synpic15813|what abnormality is seen in the image?
+synpic42217|what abnormality is seen in the image?
+synpic43461|what is abnormal in the ultrasound?
+synpic37197|what abnormality is seen in the image?
+synpic24833|what is the primary abnormality in this image?
+synpic21358|what abnormality is seen in the image?
+synpic24386|what is abnormal in the ct scan?
+synpic21531|what is most alarming about this ct scan?
+synpic30311|what is the primary abnormality in this image?
+synpic54759|what is abnormal in the ct scan?
+synpic28800|what is most alarming about this mri?
+synpic44353|what is most alarming about this mri?
+synpic31471|what is most alarming about this ct scan?
+synpic58642|what is abnormal in the mri?
+synpic27618|what abnormality is seen in the image?
+synpic26456|what is seen in the x-ray?
+synpic50423|what is abnormal in the mri?
+synpic22787|what is the primary abnormality in this image?
+synpic40874|what is the primary abnormality in this image?
+synpic33533|what is the primary abnormality in this image?
+synpic60340|what is abnormal in the ct scan?
+synpic56769|what is most alarming about this angiogram?
+synpic15228|what is most alarming about this ct scan?
+synpic34713|what is the primary abnormality in this image?
+synpic23280|what is the primary abnormality in this image?
+synpic17679|what is seen in the x-ray?
+synpic51452|what is most alarming about this ct scan?
+synpic35371|what is abnormal in the mri?
+synpic48151|what is most alarming about this ct scan?
+synpic35761|what is abnormal in the mri?
+synpic33183|what is most alarming about this mri?
+synpic21921|what is most alarming about this x-ray?
+synpic23900|what abnormality is seen in the image?
+synpic55375|what is most alarming about this mri?
+synpic26738|what is the primary abnormality in this image?
+synpic49189|what abnormality is seen in the image?
+synpic24933|what is the primary abnormality in this image?
+synpic37341|what is most alarming about this ct scan?
+synpic29820|what is most alarming about this mri?
+synpic22817|what is most alarming about this ct scan?
+synpic28831|what is abnormal in the ct scan?
+synpic49082|what is most alarming about this mri?
+synpic33924|what is abnormal in the x-ray?
+synpic54415|what is most alarming about this mri?
+synpic19343|what abnormality is seen in the image?
+synpic46951|what is most alarming about this x-ray?
+synpic25830|what is the primary abnormality in this image?
+synpic42264|what is the primary abnormality in this image?
+synpic15688|what is the primary abnormality in this image?
+synpic16386|what is most alarming about this ct scan?
+synpic54724|what is the primary abnormality in this image?
+synpic28438|what is most alarming about this mri?
+synpic56640|what is abnormal in the mri?
+synpic31485|what is abnormal in the ct scan?
+synpic30829|what abnormality is seen in the image?
+synpic31494|what is abnormal in the ct scan?
+synpic32337|what is most alarming about this mri?
+synpic45732|what is the primary abnormality in this image?
+synpic24702|what is abnormal in the mri?
+synpic49051|what is the primary abnormality in this image?
+synpic20684|what is the primary abnormality in this image?
+synpic41247|what is most alarming about this mri?
+synpic17210|what is the primary abnormality in this image?
+synpic19179|what is abnormal in the ultrasound?
+synpic51106|what abnormality is seen in the image?
+synpic44979|what abnormality is seen in the image?
+synpic42201|what is the primary abnormality in this image?
+synpic16561|what is most alarming about this ultrasound?
+synpic37660|what is the primary abnormality in this image?
+synpic32170|what is abnormal in the ct scan?
+synpic28898|what is abnormal in the mri?
+synpic43804|what is most alarming about this ct scan?
+synpic19757|what is most alarming about this x-ray?
+synpic55347|what abnormality is seen in the image?
+synpic36695|what is most alarming about this ct scan?
+synpic61012|what abnormality is seen in the image?
+synpic56737|what is the primary abnormality in this image?
+synpic15231|what is abnormal in the ct scan?
+synpic41470|what is abnormal in the ct scan?
+synpic50765|what abnormality is seen in the image?
+synpic47183|what abnormality is seen in the image?
+synpic27229|what is abnormal in the gastrointestinal image?
+synpic50839|what is abnormal in the mri?
+synpic47898|what abnormality is seen in the image?
+synpic58353|what abnormality is seen in the image?
+synpic24246|what is the primary abnormality in this image?
+synpic19174|what abnormality is seen in the image?
+synpic54546|what is abnormal in the x-ray?
+synpic49085|what abnormality is seen in the image?
+synpic19579|what is the primary abnormality in this image?
+synpic58604|what is most alarming about this x-ray?
+synpic29782|what abnormality is seen in the image?
+synpic15230|what is abnormal in the ct scan?
+synpic24116|what is most alarming about this x-ray?
+synpic22367|what abnormality is seen in the image?
+synpic47690|what is abnormal in the ct scan?
+synpic25510|what is most alarming about this x-ray?
+synpic17539|what abnormality is seen in the image?
+synpic42800|what abnormality is seen in the image?
+synpic33378|what is the primary abnormality in this image?
+synpic19646|what is the primary abnormality in this image?
+synpic24416|what is abnormal in the x-ray?
+synpic38676|what is most alarming about this mri?
+synpic28695|what is abnormal in the ct scan?
+synpic26204|what is abnormal in the ct scan?
+synpic17171|what abnormality is seen in the image?
+synpic22962|what is most alarming about this x-ray?
+synpic49251|what is abnormal in the mri?
+synpic27172|what abnormality is seen in the image?
+synpic55101|what is the primary abnormality in this image?
+synpic41245|what is abnormal in the mri?
+synpic31405|what is most alarming about this mri?
+synpic25832|what is most alarming about this mri?
+synpic17205|what abnormality is seen in the image?
+synpic31736|what is most alarming about this x-ray?
+synpic21361|what abnormality is seen in the image?
+synpic21244|what is most alarming about this ct scan?
+synpic15157|what is abnormal in the ct scan?
+synpic28430|what is the primary abnormality in this image?
+synpic22953|what abnormality is seen in the image?
+synpic22718|what abnormality is seen in the image?
+synpic45944|what is abnormal in the mri?
+synpic45804|what is most alarming about this mri?
+synpic21426|is this mammogram normal?
+synpic27829|what is abnormal in the ct scan?
+synpic24229|what abnormality is seen in the image?
+synpic33559|what is abnormal in the x-ray?
+synpic55488|what abnormality is seen in the image?
+synpic49050|what is abnormal in the mri?
+synpic38535|what is the primary abnormality in this image?
+synpic34392|what is abnormal in the ct scan?
+synpic27846|what is abnormal in the ultrasound?
+synpic55298|what abnormality is seen in the image?
+synpic41561|what is the primary abnormality in this image?
+synpic54291|what abnormality is seen in the image?
+synpic30937|what is the primary abnormality in this image?
+synpic35361|what abnormality is seen in the image?
+synpic31444|what is abnormal in the ct scan?
+synpic32770|what is the primary abnormality in this image?
+synpic37215|what is abnormal in the ct scan?
+synpic55260|what is abnormal in the ct scan?
+synpic40438|what abnormality is seen in the image?
+synpic21918|what abnormality is seen in the image?
+synpic20406|what abnormality is seen in the image?
+synpic51105|what abnormality is seen in the image?
+synpic23536|what abnormality is seen in the image?
+synpic27452|what is abnormal in the ct scan?
+synpic21828|what is abnormal in the x-ray?
+synpic60959|what is abnormal in the x-ray?
+synpic33526|what is abnormal in the mri?
+synpic39805|what abnormality is seen in the image?
+synpic58295|what is abnormal in the mri?
+synpic55484|what is abnormal in the mri?
+synpic33038|what is most alarming about this x-ray?
+synpic28690|what abnormality is seen in the image?
+synpic23059|what abnormality is seen in the image?
+synpic15170|what is most alarming about this x-ray?
+synpic42070|what is the primary abnormality in this image?
+synpic33916|what is the primary abnormality in this image?
+synpic38729|what is the primary abnormality in this image?
+synpic51296|what is most alarming about this ct scan?
+synpic27946|what is the primary abnormality in this image?

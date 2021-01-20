@@ -1,0 +1,500 @@
+synpic26840|no
+synpic39181|yes
+synpic36496|yes
+synpic25800|no
+synpic25633|no
+synpic15156|no
+synpic35686|no
+synpic18122|no
+synpic26848|yes
+synpic54536|yes
+synpic28330|yes
+synpic100305|no
+synpic36493|yes
+synpic26847|yes
+synpic25661|yes
+synpic56155|yes
+synpic56545|yes
+synpic13029|yes
+synpic28132|yes
+synpic15812|yes
+synpic39348|no
+synpic17960|yes
+synpic50769|yes
+synpic17211|no
+synpic54695|no
+synpic42810|yes
+synpic56461|yes
+synpic19752|no
+synpic18789|no
+synpic16791|no
+synpic39780|perihepatic fluid and fluid in the gallbladder as expected for postoperative patient
+synpic30247|aberrant right subclavian artery (arsa)
+synpic31271|zenker's diverticulum
+synpic22858|acute appendicitis
+synpic25302|osteoid osteoma
+synpic58683|Edema at L5
+synpic20749|meningioma
+synpic27048|pancoast tumor
+synpic48354|enlarged and lobulated right kidney, with no separate left kidney shadow
+synpic32636|avascular necrosis
+synpic23541|parathyroid adenoma
+synpic53540|supra-renal inferior vena cava clot
+synpic23906|transmesenteric hernia (internal hernia)
+synpic24236|no
+synpic26909|simple bone cyst
+synpic41464|synovial cyst
+synpic51149|hypoplastic cervical pedicle c3 on right
+synpic55941|osteogenesis imperfecta
+synpic53896|intussusception
+synpic31910|dermoid cyst
+synpic35746|omphalocele
+synpic31124|pericardial cyst
+synpic46602|Dilation and tortuosity of the esophagus with retained food debris
+synpic25884|hiatal hernia
+synpic41599|intussusception
+synpic55474|ankylosing spondylitis
+synpic42801|spinal cord astrocytoma
+synpic18070|Bilateral hilar adenopathy with right paratracheal adenopathy
+synpic17789|infiltrating ductal carcinoma
+synpic23932|multiple osteochondromatosis
+synpic38929|ectopic pregnancy
+synpic16022|infiltrating ductal carcinoma
+synpic41513|tibial plateau fracture
+synpic16152|tethered spinal cord with terminal spinal lipoma
+synpic15868|enchondroma
+synpic36114|erosive osteoarthritis
+synpic29704|pulmonary embolus
+synpic15118|aortic nipple
+synpic43951|pericardial cyst
+synpic41242|Anterior dislocation C6 on C7 with bilateral locked facets
+synpic49053|synovial cyst
+synpic39852|chance-type fracture
+synpic32196|intussusception
+synpic33245|endometrioma
+synpic19022|ectopic pregnancy
+synpic53719|pericardial cyst
+synpic45940|ankle joint and talus
+synpic54518|partial anomalous pulmonary venous return
+synpic23108|Perforated appendix
+synpic24969|multiple gallstones and pericholecystic inflammation
+synpic51488|foregut cyst
+synpic42805|Nodular interstitial opacities
+synpic28407|abdominal aortic aneurysm
+synpic56198|lumbar herniated disc
+synpic39675|osteochondroma
+synpic30324|appendicitis
+synpic35175|wilms tumor
+synpic32168|amyand's hernia
+synpic22066|leiomyosarcoma of the inferior vena cava
+synpic28474|infiltrating ductal carcinoma
+synpic56091|double aortic arch
+synpic53329|Periaortic and cervical adenopathy
+synpic58810|spinal stenosis
+synpic19155|lateral patellar dislocation
+synpic55940|osteogenesis imperfecta
+synpic29056|Collapsed, sclerotic navicular bone
+synpic29771|inflammation of the pericolic fat
+synpic52353|hereditary multiple exostoses
+synpic30323|appendicitis
+synpic20315|pulmonary sequestration
+synpic23910|expansile lytic lesions of rib and spine
+synpic20121|pancreatic carcinoma
+synpic41212|spinal cord abscess
+synpic28614|acute mesenteric ischemia
+synpic10750|breast carcinoma
+synpic38530|ollier's disease, enchondormatosis
+synpic10749|breast carcinoma
+synpic51234|bilateral hip avascular necrosis with subchondral collapse
+synpic32613|hypertrophic pyloric stenosis
+synpic55351|spinal cord astrocytoma
+synpic25239|double aortic arch
+synpic28652|azygous lobe
+synpic31482|acute appendicitis
+synpic28689|pancreatic mucinous cystic neoplasm
+synpic19629|marked interstitial lung disease with concurrent peripheral pulmonary masses and hilar and mediastinal lymphadenopathy
+synpic32605|duplicated renal collecting system
+synpic31192|hiatal hernia
+synpic42799|spinal cord astrocytoma
+synpic42199|anterior mediastinal mass
+synpic56902|spine, epidural abscess
+synpic40740|zenker's diverticulum
+synpic57445|Enhancing lesions left partietal lobe and right temporal lobe
+synpic31484|acute appendicitis
+synpic17524|Calcified granulomatous thoracic lymph nodes. Bronchial post-obstructive infection
+synpic16072|omphalocele
+synpic55188|capillary hemangioma
+synpic24413|angiomyolipoma
+synpic15789|pulmonary embolus
+synpic49459|adrenal myelolipoma
+synpic43965|collapse of the left lung
+synpic18732|renal mass
+synpic20553| Interstitial thickening in reticulonodular pattern
+synpic23761|hydronephrosis
+synpic16426|midgut malrotation
+synpic25167|diastematomyelia
+synpic21834|horseshoe kidney
+synpic30314|appendicitis
+synpic19963|Lytic expansile lesions extending through cortex of iliac bones
+synpic43957|lipoma arborescens
+synpic28172|hilar mediastinal enlargement
+synpic42233|left superior vena cava
+synpic25420|tibial plateau fracture
+synpic27095|meniscal tear
+synpic16886|enchondroma
+synpic48308|multiple small nodules throughout the liver and spleen
+synpic19021|ectopic pregnancy
+synpic29443|epiploic appendagitis
+synpic35266|angiomyolipoma
+synpic55186|capillary hemangioma
+synpic28791|osteiitis condensans ilii
+synpic52290|multiloculated pelvic mass and mass at right kidney
+synpic50958|pancreatic adenocarcinoma
+synpic46500|hepatic adenoma
+synpic31794|simple bone cyst
+synpic29647|pseudomembranous colitis
+synpic47190|Infiltrative mass right frontal bone. Destruction of inner and outer table of frontal sinus
+synpic27333|spine, epidural abscess
+synpic49052|synovial cyst
+synpic35948|schwannoma
+synpic32680|dense sclerotic trabeculae and lytic areas within the right pelvis
+synpic59807|extramedullary hematopoiesis
+synpic41137|aortic nipple
+synpic28613|acute mesenteric ischemia
+synpic40134|cholelithiasis
+synpic45645|diffuse rhabdomyosarcoma
+synpic54388|double aortic arch
+synpic19260|breast carcinoma
+synpic35641|lateral femoral notch sign
+synpic43755|pneumoperitoneum
+synpic22905|achilles tendon rupture
+synpic32336|meniscal tear
+synpic41069|acute appendicitis
+synpic24598|a partially thrombosed saccular aneurysm of the proximal aortic arch
+synpic49450|Atrophy and fatty replacement involving the supraspinatous and infraspinatous muscles
+synpic39083|hemangioma
+synpic31442|pulmonary thromboembolism
+synpic22898|interstitial pneumonitis
+synpic43693|a large mass in the left kidney with cortical thinning
+synpic39969|suprasellar mass with infiltration of white matter in pons, midbrain, basal ganglia and internal capsules
+synpic18434| oligodactyly of the hand (absence of the second and third fingers)
+synpic19499|endometrial polyp
+synpic27208|cavernous hemangioma
+synpic28450|orchitis
+synpic38505|multcystic enlarged kidneys with destruction of the renal parenchyma, consistent with hemorrhage, which is a common complication of ADPKD (autosomal dominant polycystic kidney disease)
+synpic33442|diverticulitis
+synpic52402|radial head fracture
+synpic52602|ankylosing spondylitis
+synpic59270|incidental hepatic artery aneurysm
+synpic36878|tibial plateau fracture
+synpic22988|scaphoid fracture
+synpic32873|aortic dissection
+synpic51146|hypoplastic cervical pedicle c3
+synpic25206|Lobulated anterior mediastinal mass
+synpic39962| suprasellar mass with abnormal appearance of white matter in pons, midbrain, basal ganglia and internal capsules
+synpic31882|mature cystic teratoma
+synpic31789|osteoid osteoma
+synpic34035|intramedullary lipoma of the spinal cord
+synpic38375|orbit,  hemangioma
+synpic51197|cord infarct with secondary atrophy
+synpic46953|autosomal recessive polycystic kidney disease
+synpic39619|osteochondroma
+synpic43947|pericardial cyst
+synpic26791|colon cancer
+synpic49365|cord infarct with secondary atrophy
+synpic28471|malignant germ cell tumor
+synpic58578|mycotic aneurysm
+synpic33644|medullary nephrocalcinosis
+synpic48358|osteosarcoma
+synpic48946|mature cystic teratoma
+synpic34010|malignant germ cell tumor
+synpic27937|poland's syndrome
+synpic15811|chunky calcifications in multiple mediastinal lymph nodes. Pleural nodules and interstitial thickening in the upper lung lobes
+synpic34501|atrial septal defect
+synpic46958|a morphologically abnormal and markedly enlarged right kidney. The patient is status-post left nephrectomy
+synpic18532|midgut malrotation
+synpic28510|radial head fracture
+synpic28321|cystic fibrosis
+synpic46730|pulmonary embolism
+synpic38734|nephrolithiasis
+synpic32617|multiple, diffuse micronodular opacities throughout the lung fields
+synpic27896|calcific tendinitis
+synpic32353|double aortic arch
+synpic31334|numerous cystic lesions of various sizes in both kidneys and throughout the liver parenchyma
+synpic53337|Complete destruction of the L2 vertebral body and superior portion of the L3 vertebral body with severe spinal canal stenosis
+synpic38410|neuroblastoma
+synpic25100|Neurofibromatosis type 1
+synpic20162|testicular torsion
+synpic30678|osteoid osteoma
+synpic22867|ovarian dermoid (cystic teratoma)
+synpic48947|mature cystic teratoma
+synpic42272|ewing sarcoma
+synpic47812|enchondroma
+synpic45650|solid mass involving the right neck with large oral pharyngeal component
+synpic18709|necrotizing enterocolitis
+synpic24190|lymphangitic carcinomatosis
+synpic42798|spinal cord astrocytoma
+synpic38536|bicornuate uterus
+synpic16151|tethered spinal cord.  Markedly distended bladder suggestive of neurogenic bladder
+synpic27179|pulmonary embolus and external iliac vein thrombosis
+synpic60958|stage i pulmonary sarcoidosis
+synpic27825|epididymitis
+synpic30212|pulmonary sarcoidosis
+synpic42246|pulmonary sarcoidosis
+synpic15814|amyloidosis
+synpic36243|double aortic arch
+synpic15865|enchondroma
+synpic22649|dermoid cyst (cystic teratoma)
+synpic31179|sarcoidosis
+synpic43966|collapse of the left lung with depression of the left hemidiaphragm
+synpic46952|hypoinflated lungs, with a markedly distended abdomen, centrally placed loops of bowel, with prominent hepatic and renal shadows
+synpic27662|osteochondroma
+synpic35370|nonossifying fibroma
+synpic27332|spine, epidural abscess
+synpic27631|Bilateral large oval shaped adrenal masses
+synpic53327|Periaortic adenopathy. Level VI cervical adenopathy
+synpic23819|enlarged lymph nodes in mediastinum, especially anterior to trachea
+synpic43645|angiomyolipoma
+synpic16496|biliary leak, status post cholecystectomy
+synpic12857|Increased bronchial caliber with bronchial wall thickening, peribronchial inflammation and fibrosis
+synpic24748|bronchiectasis
+synpic22343|rickets
+synpic43011|spine, epidural abscess
+synpic17160|hemangioma, soft-tissue
+synpic60343|Heterogeneous renal mass
+synpic57866|dural  fistula, avf
+synpic42227|left superior vena cava
+synpic56744|Posterior paraspinal mass with epidural infiltration of the spinal canal compressing the spinal cord
+synpic54052|leptomeningeal sarcoid
+synpic22147|epiploic appendagitis
+synpic53129|pneumopericardium
+synpic23950|chondrocalcinosis
+synpic41669|diffuse multilobar ground-glass opacities in the lung, with interstitial thickening predominately in the lower-lobe
+synpic59336|sequestration, intralobar bronchopulmonary
+synpic31912|dermoid cyst
+synpic15438|hepatic hemangioma
+synpic34760|ectopic pregnancy
+synpic19949|pancoast tumor
+synpic16397|nonossifying fibroma
+synpic58804|spine, spinal stenosis
+synpic21758|lipoma arborescens
+synpic16566|multiple masses with serpiginous vessels with large feeding arteries and draining veins
+synpic52300|right renal mass
+synpic25876|double aortic arch
+synpic29666|nonossifying fibroma
+synpic30900|cholelithiasis
+synpic32095|osteomyelitis
+synpic58067|caudal regression syndrome
+synpic28509|radial head fracture
+synpic53138|Flattened IVC and renal veins
+synpic20683|enchondroma
+synpic12024|barium enema demonstrates an annular constricting lesion at the hepatic flexure of the colon
+synpic58079|vertebral osteomyelitis and diskitis
+synpic30464|ependymoma cervical spinal cord
+synpic29027|hiatus hernia
+synpic47000|osteochondroma
+synpic17942|aortic dissection
+synpic24232|ectopic pregnancy
+synpic16071|omphalocele
+synpic12718|adrenal adenoma
+synpic52306|A pathologic fracture at the level of L3
+synpic41947|hypertrophic pyloric stenosis
+synpic50038|epidural spinal hematoma
+synpic30931|appendicitis
+synpic28478|infiltrating ductal carcinoma
+synpic26447|multiple hereditary exostosis
+synpic21565|lateral patellar dislocation
+synpic16213|partial anomalous pulmonary venous return
+synpic19019|ectopic pregnancy
+synpic22283|adenomyosis
+synpic41716|mesenteric adenitis
+synpic33181|bucket handle meniscal tear of the knee
+synpic39937|transmesenteric hernia (internal hernia), small bowel volvulus
+synpic30822|pericardial cyst
+synpic19553|breast implant rupture, extracapsular silicone
+synpic20224|multiple smooth round ossific densities anterior dorsal to the talus. Erosion of the anterior talus
+synpic37346|appendiceal rupture
+synpic18860|pediatric pneumonia (round pneumonia)
+synpic33733|varicocele
+synpic34048|A large lobulated anterior mediastinal mass
+synpic21457|acute appendicitis
+synpic33267|choledocholithiasis
+synpic27691|necrotizing fasciitis
+synpic38507|pulmonary embolism
+synpic16755|LLL lobulated nodule
+synpic27495|renal oncocytoma
+synpic16145|parathyroid adenoma
+synpic35253|aortic pseudoaneurysm
+synpic43555|acute appendicitis
+synpic54094|dural  fistula, avf
+synpic43005|spine, epidural abscess
+synpic45011|testicular microlithiasis
+synpic51147|hypoplastic cervical pedicle c3 on right
+synpic43948|pericardial cyst
+synpic20942|osteochondritis dissecans
+synpic32760|intraosseous lipoma
+synpic37739|granular cell tumor
+synpic32267| a large heterogeneous soft tissue mass surrounding the achilles tendon with peripheral dystrophic calcification
+synpic45647|Solid mass involving the right neck with large oral pharyngeal component
+synpic15813|Chunky calcifications in multiple mediastinal lymph nodes. Pleural nodules and interstitial thickening in the upper lung lobes
+synpic42217|Large solid left renal mass with associated pelvicaliectasis
+synpic43461|seminoma
+synpic37197|transitional cell carcinoma, bladder
+synpic24833|hiatal hernia
+synpic21358|expansile lytic lesion involving the left T11 pedicle
+synpic24386|hepatic hemangioma
+synpic21531|horseshoe kidney
+synpic30311|hepatoblastoma
+synpic54759|an enlarged left hilar lymph node at the level of the left atrium
+synpic28800|hemangioma, soft-tissue
+synpic44353|neuroblastoma
+synpic31471|abdominal aortic aneurysm
+synpic58642|lumbar herniated disc
+synpic27618|osteochondroma
+synpic26456|Right navicular, smooth with normal mineralization
+synpic50423|Extensive bilateral supratentorial white matter lesions
+synpic22787|acute appendicitis
+synpic40874|ependymoma cervical spinal cord
+synpic33533|Left lateral decubitus shows that the right hemidiaphram does not move up on exhalation
+synpic60340|Heterogeneous renal mass
+synpic56769|dural  fistula, avf
+synpic15228|hepatoblastoma
+synpic34713|ruptured appendicitis
+synpic23280|pneumothorax
+synpic17679|normal chest
+synpic51452|vacterl syndrome
+synpic35371|nonossifying fibroma
+synpic48151|portal venous thrombosis
+synpic35761|spondylodiskitis
+synpic33183|bucket handle meniscal tear of the knee
+synpic21921|sarcoid
+synpic23900|transmesenteric hernia (internal hernia), small bowel volvulus
+synpic55375|Irregular signal marrow throughout the Lumbar spine secondary to bone infarcts and red marrow reconversion
+synpic26738|cavernous hemangioma
+synpic49189|medullary nephrocalcinosis
+synpic24933|caudal regression syndrome
+synpic37341|appendiceal rupture
+synpic29820|osteochondroma
+synpic22817|pulmonary embolism
+synpic28831|diverticulitis
+synpic49082|diffuse idiopathic skeletal hyperostosis, cervical and thoracic spine fractures
+synpic33924|horseshoe kidney
+synpic54415|spinal dural arteriovenous fistula
+synpic19343|acute mesenteric ischemia
+synpic46951|hypoinflated lungs, with a markedly distended abdomen
+synpic25830|fibrous dysplasia
+synpic42264|acute appendicitis
+synpic15688|multiple hereditary exostosis
+synpic16386|Abnormal collection of vessels in the right anterior upper lung lobe
+synpic54724|osteomyelitis
+synpic28438|venous thromboembolism (vte)
+synpic56640|neuroblastoma
+synpic31485|acute appendicitis
+synpic30829|Coarsened and thickened trabeculae along the right femoral neck and greater trochanter
+synpic31494|multiple thin-walled cysts in the lungs, with bronchovascular bundles at the periphery of the cyst walls
+synpic32337|meniscal tear
+synpic45732|pulmonary embolus
+synpic24702|intramuscular hemangioma
+synpic49051|synovial cyst
+synpic20684|enchondroma
+synpic41247|Spinal cord swelling, edema and hemorrhage
+synpic17210|hepatic hemangioma
+synpic19179|cirrhosis of the liver
+synpic51106|germinal matrix hemorrhage
+synpic44979|germinal matrix hemorrhage
+synpic42201|anterior mediastinal mass
+synpic16561|germinal matrix hemorrhage
+synpic37660|coarctation of the aorta
+synpic32170|amyand's hernia
+synpic28898|enchondroma
+synpic43804|lipomatous hypertrophy of the interatrial septum
+synpic19757| a soft tissue mass on the extensor surface of the PIP joint with mild erosive change of the phalangeal head
+synpic55347|spinal cord astrocytoma
+synpic36695|Bladder herniating through inguinal canal
+synpic61012| a lobulated, irregular mass extending through the posterior bladder wall and into the adjacent uterus, with associated hydronephrosis and hydroureter
+synpic56737|Destructive lesion T10 with paraspinal and intraspinal mass compressing spinal cord. Metastatic disease to multiple vertebral bodies including S1
+synpic15231|hepatoblastoma
+synpic41470|adrenal myelolipoma
+synpic50765|spine, epidural abscess
+synpic47183|Infiltrative mass right frontal bone. Destruction of inner and outer table of frontal sinus
+synpic27229|compression of posterior wall of esophagus by soft tissue density
+synpic50839|Spinal cord edema and hemorrhage
+synpic47898|acute appendicitis
+synpic58353|seminoma
+synpic24246|cord abnormalities with minimal myelitis
+synpic19174|quadriceps tendon rupture
+synpic54546|multiple osteochondromatosis
+synpic49085|diffuse idiopathic skeletal hyperostosis, cervical and thoracic spine fractures
+synpic19579|endograft leak
+synpic58604|pancoast tumor
+synpic29782|fractures of the base of the fifth metatarsal
+synpic15230|hepatoblastoma
+synpic24116|fibrous dysplasia
+synpic22367|A myomatous uterus.  In addition to the submucosal fibroid, there are several smaller intramural fibroids, and at least 2 large, exophytic, broad-based subserosal fibroids
+synpic47690|pancreatic adenocarcinoma
+synpic25510|supracondylar fracture
+synpic17539|double aortic arch
+synpic42800|spinal cord astrocytoma
+synpic33378|pneumothorax
+synpic19646|omphalocele
+synpic24416|right aortic arch
+synpic38676|acl injury
+synpic28695| Large pancreatic body mass with multiloculated cysts with and peripheral calcifications in the capsule/septae
+synpic26204|pneumomediastinum
+synpic17171|osteochondritis dissecans
+synpic22962|interstitial pneumonitis
+synpic49251|Intramedullary cervical spinal cord mass. Mild expansion of cervical spinal bony canal
+synpic27172|Large, heterogenous mass in the left testicle with increased vascularity
+synpic55101|multiple osteochondromatosis
+synpic41245|Spinal cord swelling and hemorrhage. Disruption of posterior ligaments with soft tissue edema
+synpic31405|vertebral osteomyelitis and diskitis
+synpic25832|left Iliac osseous infarcts secondary to Sickle Cell Anemia
+synpic17205|hepatic hemangioma
+synpic31736|talocalcaneal coalition
+synpic21361| expansile lytic lesion involving the posterior vertebral body, pedicle, lamina, and transverse process narrowing the spinal canal
+synpic21244|neuroblastoma
+synpic15157| The liver is abnormally heterogenous
+synpic28430|IVC thrombus with bilateral deep venous thrombosis
+synpic22953|ovarian torsion
+synpic22718|hepatic hemangioma
+synpic45944|osteochondritis dissecans
+synpic45804|spine, spinal stenosis
+synpic21426|yes
+synpic27829| irregular collections of air extending through the facial planes of the lower extremity along the semimembranous muscle
+synpic24229|ollier's disease, enchondormatosis
+synpic33559|ollier's disease, enchondormatosis
+synpic55488|ankylosing spondylitis
+synpic49050|synovial cyst
+synpic38535|bicornuate uterus
+synpic34392|angiomyolipoma
+synpic27846|medullary nephrocalcinosis
+synpic55298|tethered spinal cord with terminal spinal lipoma
+synpic41561|spontaneous pneumomediastinum
+synpic54291|carotid artery dissection
+synpic30937|adenomyomatosis
+synpic35361|acute osteomyelitis
+synpic31444|pulmonary thromboembolism
+synpic32770|hypertrophic pyloric stenosis
+synpic37215|pulmonary embolism
+synpic55260|aberrant right subclavian artery (arsa)
+synpic40438| right upper lung lobe consolidation and a large mass in the right hilum
+synpic21918|Patchy airspace opacities throughout bilateral lung fields
+synpic20406|mass in the right upper lung lobe with extrinsic compressive atelectasis and mediastinal lymphadenopathy
+synpic51105|germinal matrix hemorrhage
+synpic23536|stress fracture
+synpic27452|pulmonary arteriovenous malformation
+synpic21828|horseshoe kidney
+synpic60959|Both hila are enlarged with multiple rounded masses - most suggestive of lymph nodes
+synpic33526|femoral neck stress fractures
+synpic39805|an opacity along the left heart border
+synpic58295|synovial cyst
+synpic55484|ankylosing spondylitis
+synpic33038|pericardial cyst
+synpic28690|Large pancreatic body mass; multiloculated cysts with thin septa. Peripheral calcifications in the capsule/septae
+synpic23059|angiomyolipoma
+synpic15170|pulmonary embolism
+synpic42070|avascular necrosis of femoral head
+synpic33916|adenomyosis
+synpic38729|Perilymphatic nodules coalesce to nodular opacities at periphery
+synpic51296|cholelithiasis
+synpic27946|pulmonary embolism
