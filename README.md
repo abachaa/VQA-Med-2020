@@ -19,7 +19,7 @@ Data:
 --------------
 
 VQA Data: 
-- Training set: 4,000 radiology images with 4,000 associated Question-Answer (QA) pairs.
+- Training set: 4,000 radiology images with 4,000 associated Question-Answer (QA) pairs (https://www.aicrowd.com/challenges/imageclef-2020-vqa-med).
 - Validation set: 500 radiology images with 500 QA pairs (https://github.com/abachaa/VQA-Med-2020/blob/main/VQA-ValidationSet-VQAMed2020-Task1.zip).
 - Test set: 500 radiology images with 500 associated questions (https://github.com/abachaa/VQA-Med-2020/blob/main/VQA-TestSet-ReferenceAnswers-VQAMed2020-Task1.zip). 
 
@@ -29,7 +29,7 @@ VQG Data:
 - Training set: 780 radiology images with 2,156 associated questions.
 - Validation set: 141 radiology images with 164 questions.
 - Test set: 80 radiology images. 
-
+All VQG datasets are available at https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqg (under the "Resources" tab). 
 
 Evaluation Metrics
 ------------------
