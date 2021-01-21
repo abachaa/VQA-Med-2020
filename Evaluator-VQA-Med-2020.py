@@ -461,6 +461,8 @@ import re
 #__author__ = 'aagrawal'
 # This code is based on the code written by Tsung-Yi Lin for MSCOCO Python API available at the following link: 
 # (https://github.com/tylin/coco-caption/blob/master/pycocoevalcap/eval.py).
+# Adapted for VQA-Med 2020 by Vivek Datla and Sadid A. Hasan. 
+
 class VQAEval:
     def __init__(self, vqa, vqaRes, n=2):
         self.n = n
