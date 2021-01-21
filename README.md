@@ -29,6 +29,7 @@ VQG Data:
 - Training set: 780 radiology images with 2,156 associated questions.
 - Validation set: 141 radiology images with 164 questions.
 - Test set: 80 radiology images. 
+
 All VQG datasets are available at https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqg (under the "Resources" tab). 
 
 Evaluation Metrics
