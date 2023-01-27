@@ -68,8 +68,3 @@ Asma Ben Abacha, Vivek V. Datla, Sadid A. Hasan, Dina Demner-Fushman and Henning
     address = {Thessaloniki, Greece}
     }
     
-    
-Contact Information
---------------------
-
-Asma Ben Abacha: asma.benabacha@nih.gov    https://sites.google.com/site/asmabenabacha/
