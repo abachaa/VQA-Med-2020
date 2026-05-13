@@ -44,27 +44,37 @@ The following preprocessing is applied before running the evaluation metrics on 
 
 Code: https://github.com/abachaa/VQA-Med-2020/blob/main/Evaluator-VQA-Med-2020.py.
 
-Reference
+License
 ----------
 
-If you use the VQA-Med 2020 dataset, please cite our paper: "Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain". 
+This work is released under the Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
+If you use the VQA-Med 2020 dataset, please cite our paper:  
+
+- "Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain". 
 Asma Ben Abacha, Vivek V. Datla, Sadid A. Hasan, Dina Demner-Fushman and Henning Müller. CLEF 2020 Working Notes.
 
-@Inproceedings{ImageCLEFVQA-Med2020,
+         @Inproceedings{ImageCLEFVQA-Med2020,
 
-    author = {Asma {Ben Abacha} and Vivek V. Datla and Sadid A. Hasan and Dina Demner-Fushman and Henning M\"uller},
-    title = {Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain},
+         author = {Asma {Ben Abacha} and Vivek V. Datla and Sadid A. Hasan and Dina Demner-Fushman and Henning M\"uller},
+  
+         title = {Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain},
     
-    booktitle = {CLEF 2020 Working Notes},
+         booktitle = {CLEF 2020 Working Notes},
     
-    series = {{CEUR} Workshop Proceedings},
+         series = {{CEUR} Workshop Proceedings},
     
-    year = {2020},
+         year = {2020},
+
+         url = {http://ceur-ws.org/Vol-2696/paper_106.pdf}, 
     
-    publisher = {CEUR-WS.org $<$http://ceur-ws.org$>$},
+         publisher = {CEUR-WS.org $<$http://ceur-ws.org$>$},
     
-    month = {September 22-25},
+         month = {September 22-25},
     
-    address = {Thessaloniki, Greece}
-    }
+         address = {Thessaloniki, Greece}
+         }
+  
     
+ Contact Information
+ -------------------
+Asma Ben Abacha: asma.benabacha AT gmail.com      https://sites.google.com/site/asmabenabacha/
